@@ -1,1 +1,2 @@
-# maven-ansible
+# TomcatMavenApp
+Sample Tomcat Maven App
